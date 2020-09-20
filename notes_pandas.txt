@@ -1,3 +1,5 @@
+
+
 1) Intro
  * what is pandas? 
  * what using excel/plain python not good. 
@@ -45,3 +47,7 @@
 -) Pivot Table
 -) Time Series and Categoricals
 -) Plotting (Bokeh?) 
+
+Reference : 
+codebasics : Youtube
+https://github.com/codebasics/py/blob/master/pandas/10_pivot/pandas_pivot.ipynb
